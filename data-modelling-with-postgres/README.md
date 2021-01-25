@@ -142,6 +142,7 @@ The counts are as follows:
 
 
 A pie chart visualization is below. 
+
 ![gender pie chart](images/gender_pie_chart.PNG)
 
 A large proportion of the users are females. Perhaps more changes can be done to target more male users to use Sharkify's services.

@@ -21,7 +21,7 @@ The directory of the folder is as follows:
 The purpose of this database is to support Sparkify in their analytics. Sparkify can execute most queries with minimal joins. This database will support OLAP workloads rather than OLTP workloads. 
 
 ## 3.1. Database schema design
-![star schema](/images/start_schema.PNG)
+![star schema](images/start_schema.PNG)
 
 
 
@@ -142,7 +142,7 @@ The counts are as follows:
 
 
 A pie chart visualization is below. 
-![gender pie chart](/images/gender_pie_chart.PNG)
+![gender pie chart](images/gender_pie_chart.PNG)
 
 A large proportion of the users are females. Perhaps more changes can be done to target more male users to use Sharkify's services.
 

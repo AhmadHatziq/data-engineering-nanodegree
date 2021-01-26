@@ -25,7 +25,7 @@ The directory of the folder is as follows:
 
 ## 2. Introduction
 
-For the purposes of the submission, the RedShift cluster will remain active, for the marker to verify that the ETL process works. Should the marker choose to use their own AWS credentials, he/she can edit the configuration file, under `[AWS][key]` and `[AWS][secret]`. The `[DWH][dwh_endpoint]` and `[DWH][dwh_endpoint]` will auto update once the `create_cluster.py` script is executed.
+For the purposes of the submission, the RedShift cluster will remain active, for the user to verify that the ETL process works. Should the user choose to use their own AWS credentials, he/she can edit the configuration file, under `[AWS][key]` and `[AWS][secret]`. The `[DWH][dwh_endpoint]` and `[DWH][dwh_endpoint]` will auto update once the `create_cluster.py` script is executed.
 
 
 
@@ -75,7 +75,7 @@ To differentiate between the staging and star schema tables, 2 schemas are creat
 ### 4.2. Loading & Transforming Data from RedShift Staging to Star Schema Tables
 Before the ETL process is executed, the Fact & Dimension Tables are created. 
 
-![star schema](images/star_schema.PNG)
+![star schema](images/star_schema.png)
 
 
 

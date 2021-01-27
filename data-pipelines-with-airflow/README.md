@@ -34,3 +34,6 @@ The above diagram shows the overall DAG of the ETL pipeline.
 
 `Stop_execution` is a dummy operator created to end the overall process. 
 
+Pre-requisites:
+Please ensure that the `aws_credentials` and `redshift` connections are created in Airflow. `aws_credentials` should have a AWS connector whereas `redshift` should have a Postgres connector. 
+

@@ -8,4 +8,5 @@ The Projects are as follows:
 3. [Data Warehousing with Redshift](/data-warehousing-with-redshift)
 4. [Data Lake with Spark](/data-lake-with-spark)
 5. [Data Pipelines with Airflow](/data-pipelines-with-airflow)
-6. Capstone Project
+6. [Capstone Project](/capstone-project)
+
